@@ -1,0 +1,32 @@
+p1.cpp
+1. Sqaure Pattern 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+
+also Same for "*" Pattern
+****
+****
+****
+****
+
+p2.cpp 
+2. Sqaure Charcter Pattern
+A B C D
+A B C D
+A B C D
+A B C D
+
+
+p3.cpp
+3. Sqauare Pattern Continuous number
+1 2 3 
+4 5 6 
+7 8 9 
+
+p4.cpp
+4. Sqaure Patter for the character Continuous Pattern
+A B C 
+D E F 
+G H I
