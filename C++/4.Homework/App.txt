@@ -1,0 +1,7 @@
+tu1.cpp 
+--- Figure out how to find out number is power of 2 without any loop.
+
+ tut2.cpp
+--- Reverse a number without using any loop.
+
+
