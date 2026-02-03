@@ -1,0 +1,7 @@
+USE ORG;
+
+SELECT * FROM Worker;
+
+SELECT * FROM Bonus;
+
+SELECT * FROM Title;

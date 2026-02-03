@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/1_Table_Creation.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/2_Retirval.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../2.DRL/1_Basic_Retrivel.sql" dialect="MySQL" />
+  </component>
+</project>
