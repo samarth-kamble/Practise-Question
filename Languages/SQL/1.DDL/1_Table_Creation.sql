@@ -83,3 +83,9 @@ INSERT INTO Title (WORKER_REF_ID, WORKER_TITLE, AFFECTED_FROM) VALUES
                                                                    (17, 'Clerk',          '2024-01-12 00:00:00'),
                                                                    (18, 'HR Lead',        '2024-04-01 00:00:00');
 
+
+CREATE TABLE demo (NAME VARCHAR(233), ID INT PRIMARY KEY );
+
+INSERT INTO demo (NAME, ID)VALUES('Samarth', 10);
+
+SELECT * FROM demo;

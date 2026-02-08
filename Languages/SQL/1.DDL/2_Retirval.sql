@@ -4,4 +4,4 @@ SELECT * FROM Worker;
 
 SELECT * FROM Bonus;
 
-SELECT * FROM Title;
+SELECT * FROM Title
