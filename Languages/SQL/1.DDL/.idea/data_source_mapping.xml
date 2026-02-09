@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/../0.Database/1_Database.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
     <file url="file://$PROJECT_DIR$/1_Table_Creation.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
     <file url="file://$PROJECT_DIR$/2_Retirval.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
     <file url="file://$PROJECT_DIR$/3_Deletion_Table.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
+    <file url="file://$PROJECT_DIR$/4_Constraints.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
+    <file url="file://$PROJECT_DIR$/../2.DRL/1_Basic_Retrivel.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
+    <file url="file://$PROJECT_DIR$/../2.DRL/2_Clauses.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3e9535cc-8735-4e62-940f-467ee7606af2/console.sql" value="3e9535cc-8735-4e62-940f-467ee7606af2" />
   </component>
 </project>
