@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/5_Altering_Operation.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../2.DRL/1_Basic_Retrivel.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../2.DRL/2_Clauses.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../3.DML/1_Command_of_DML.sql" dialect="MySQL" />
   </component>
 </project>
