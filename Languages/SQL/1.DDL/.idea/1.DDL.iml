@@ -6,6 +6,7 @@
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../2.DRL" />
     <content url="file://$MODULE_DIR$/../3.DML" />
+    <content url="file://$MODULE_DIR$/../4.Joins" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
