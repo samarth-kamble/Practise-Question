@@ -1,28 +1,15 @@
 {
-    "configurations": [
-        {
-            "name": "Mac",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [],
-            "compilerPath": "/opt/homebrew/bin/g++-15",
-            "cStandard": "c17",
-            "cppStandard": "c++14",
-            "intelliSenseMode": "macos-clang-arm64",
-            "configurationProvider": "ms-vscode.cpptools "
-        },
-        {
-            "name": "path",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
-            "defines": [],
-            "compilerPath": "/usr/bin/clang",
-            "cStandard": "c17",
-            "cppStandard": "c++14",
-            "intelliSenseMode": "macos-clang-arm64"
-        }
-    ],
-    "version": 4
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "/opt/homebrew/Cellar/gcc/15.1.0/include/c++/15",
+        "/opt/homebrew/Cellar/gcc/15.1.0/include/c++/15/aarch64-apple-darwin23"
+      ],
+      "compilerPath": "/opt/homebrew/bin/g++-15",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-gcc-arm64"
+    }
+  ],
+  "version": 4
 }
